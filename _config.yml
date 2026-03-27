@@ -7,3 +7,6 @@ plugins:
 description: "Aracım ile ilgili zırvaladığım bir yazı derlemesi."
 url: "https://burakoruk26.github.io" # Replace with your GitHub URL
 baseurl: "" # Leave empty unless your site is in a subfolder
+
+exclude:
+- README.md
