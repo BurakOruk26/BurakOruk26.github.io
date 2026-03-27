@@ -1,10 +1,11 @@
 title: Ruh Kırkmızı Blog
 remote_theme: mmistakes/jekyll-theme-basically-basic
+skin: steele
 plugins:
   - jekyll-remote-theme
 
 # Site Settings
-description: "Aracım ile ilgili zırvaladığım bir yazı derlemesi."
+#description: "Aracım ile ilgili zırvaladığım bir yazı derlemesi."
 url: "https://burakoruk26.github.io" # Replace with your GitHub URL
 baseurl: "" # Leave empty unless your site is in a subfolder
 
