@@ -16,7 +16,7 @@ Güç aktarımı: Açık diferansiyel.
 
 ## Yorumlar
 Araç yol tutuyor, aracın kafası laf dinliyor, arkası fazla laf dinliyor. <br>
-Motordadn güç elde etmek için devirlenmek şart. Tasarım biraz da bunun üstüne bence. Günümüzde çok az motor turbo yerine yüksek bir devir bandından güç alıyor (992.1 GT3 RS mesela nadir bir örnek). Bu yüzden özel bir yeri var. Ancak güçsüz, evet evet olayı bu falan ama gerçekten güçsüz. Özellikle tork eksikliğini hissettiriyor. <br>
+Motordan güç elde etmek için devirlenmek şart. Bence tasarım da zaten bunun üstüne. Günümüzde çok az motor, turbo yerine yüksek bir devir bandından güç alıyor (992.1 GT3 RS mesela nadir bir örnek). Bu yüzden özel bir yeri var. Ancak güçsüz, evet evet olayı bu falan ama gerçekten güçsüz. Özellikle tork eksikliğini hissettiriyor. <br>
 Motor konumundan dolayı aracın dengesi muazzam (50:50). Aracın önü dön dediğinde dönüyor. Tabii ki eksi yönü de var: Arka koptu mu kontrol aralığı daha dar oluyor. Eh bir de açık diferansiyel olunca kontrol iyice öngörülemez oluyor. Arka biraz dans etsin istendiğinde de naz yapıyor.
 
 # Ben ve aracım
