@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Ruh Kırmızı
-permalink: /home/
+permalink: /
 ---
 
 # Arabam hakkında zırvaladığım bir yazı derlemesi.
@@ -14,4 +14,4 @@ Arabamı sevsem de hiçbir zaman "orijinalci" olmadım ve evet, araçta eksik bu
 Bu sitede kırmızı tavşana uygun gördüğüm modifiyeleri planlıyor olacağım. Çoğunlukla kendim için bir not defteri ama isteyen herkes yolculuğuma eşlik edebilir.
 Tam düzenli bir plan şeması olmaktan ziyade fikir haritası görevi görecek. Arada bir karmaşıklaşabilir, şimdiden uyarayım.
 
-[Giriş Yazısı](/intro)
+[Giriş Yazısı](/intro/)

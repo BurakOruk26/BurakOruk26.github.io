@@ -29,4 +29,4 @@ Aracıma kötü davranmam ama el bebek gül bebek de değildir. Yağını, filtr
 Burdan sonraki kısımlarda araç hakkında eksik bulduğum noktaları konuşuyor olacağım. Sonrasında çözüm önerileri getireceğim ve plan taslaklarıyla devam edeceğim. Araştırmalarım devam ettikçe, işlemler yapıldıkça sayfalar büyüyecektir.
 
 [Anasayafa](/)
-[Eksikler](/downsides)
+[Eksikler](/downsides/)
