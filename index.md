@@ -4,12 +4,7 @@ title: Ruh Kırmızı
 permalink: /
 ---
 
-<details>
-  <summary><b>Bilgilendirme</b></summary>
-  
-  *   [Giriş](/intro/) - *Arabam ve Ben*
-  *   [Eksiklerin Saptanması](/downsides/) - *Gidermek için Eksikler Bilinmeli*
-</details>
+[**ANASAYFA**] | [BİLGİLENDİRME](/downsides) | [PLANLAR](/general_plans) | [YAPILANLAR](/accomplished)
 
 # Arabam hakkında zırvaladığım bir yazı derlemesi.
 Aracım bir dördüncü nesil MX5, <br>
@@ -21,4 +16,4 @@ Arabamı sevsem de hiçbir zaman "orijinalci" olmadım ve evet, araçta eksik bu
 Bu sitede kırmızı tavşana uygun gördüğüm modifiyeleri planlıyor olacağım. Çoğunlukla kendim için bir not defteri ama isteyen herkes yolculuğuma eşlik edebilir.
 Tam düzenli bir plan şeması olmaktan ziyade fikir haritası görevi görecek. Arada bir karmaşıklaşabilir, şimdiden uyarayım.
 
-[Giriş Yazısı](/intro/)
+<!-- [Giriş Yazısı](/intro/) -->

@@ -1,5 +1,6 @@
 skin: plum
 navigation_pages:
-  - index.md
+  #- index.md
   - intro.md
-  - downsides.md
+  - general_plans.md
+  - accomplished.md

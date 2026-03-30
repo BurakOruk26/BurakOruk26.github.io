@@ -4,6 +4,8 @@ title: Giriş
 permalink: /intro/
 ---
 
+[**GİRİŞ**] | [EKSİKLER](/downsides) | [ANASAYFA](/)
+
 # Araç Detayları
 Aracımdan kısaca bahsedeceğim çünkü burdaki detaylara ilerleyen sayfalarda çokça değinilecek. Bir yerde toplu durmasında fayda var. 
 
