@@ -6,11 +6,13 @@ permalink: /intro/downsides/
 
 [GİRİŞ](/intro/) | [**EKSİKLER**] | [ANASAYFA](/)
 
+<div id="top"></div>
+
 ### Boyut
-Yapacak hiçbir bir şey yok. Araba küçücük, bu kadar. Kafam tavana değmesin diye koltuk alçaltma rayı taktım (182 cm botum var).
+Yapacak hiçbir bir şey yok. Araba küçücük, bu kadar. Kafam tavana değmesin diye koltuk alçaltma rayı taktım (182 cm boyum var).
 
 ## Yol Tutuşu
-Başlığa aldanmayın, sadece açık diferansiyel olması burda mevzu. Dingil açıklığı oldukça kısa bir arabada arka koptuğu zaman kontrollü olması önemlidir. Mazda mühendisleri 1.5L için fazla görmüş bu detayı, muhtemelen ağırlıktan kısmak istemişlerdir. Sebebi ne olursa olsun bu büyük bir eksik. İstanbul Park'ta viraj çıkışı arkayla mücadelemde fark ettim ki bir kilitli diferansiyel hem sürüşü hem kayışı hem de özgüvenimi iyileştirecek.
+Başlığa aldanmayın, sadece açık diferansiyel olması burda mevzu. Dingil açıklığı oldukça kısa bir arabada arka koptuğu zaman kontrollü olması önem arz eder. Mazda mühendisleri 1.5L için fazla görmüş bu detayı, muhtemelen ağırlıktan kısmak istemişlerdir. Sebebi ne olursa olsun bu büyük bir eksik. İstanbul Park'ta viraj çıkışı arkayla mücadelemde fark ettim ki bir kilitli diferansiyel hem sürüşü hem kayışı hem de özgüvenimi iyileştirecek.
 
 # Beygir ve Tork
 Evet, ikisi de az. Araç acayip hafif ve acayip keyifli. Keyiflidir ama bir arka taraf zil takıp oynasın istendiğinde ya da piste çıkıldığında "Ah keşke az daha güç olsaydı" dedirtiyor. Özellikle alt devirler biraz daha canlansa araba iyice zıplar kaçar. Eh tabii bir de 5 viteste bile güç ölmese güzel olabilir (daha 6 var). <br> 
@@ -21,3 +23,5 @@ Araç hafif, durma gücü yeterli. Yeterli kelimesi ise bu durumda sadece trafik
 
 # Özet
 Araç hem daha iyi hızlanabilir hem de daha iyi yavaşlayabilir. Bunlar üstüne koyar ama o şarttır ki arka tekerler gücü yere daha iyi aktarabilmeli. O yüzden her şeyden önce açık diferansiyel problemi çözülmelidir.
+
+[↑ Başa Dön](#top)
