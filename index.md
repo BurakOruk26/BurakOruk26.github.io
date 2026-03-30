@@ -4,6 +4,13 @@ title: Ruh Kırmızı
 permalink: /
 ---
 
+<details>
+  <summary><b>Bilgilendirme</b></summary>
+  
+  *   [Giriş](/intro/) - *Arabam ve Ben*
+  *   [Eksiklerin Saptanması](/downsides/) - *Gidermek için Eksikler Bilinmeli*
+</details>
+
 # Arabam hakkında zırvaladığım bir yazı derlemesi.
 Aracım bir dördüncü nesil MX5, <br>
 130 bg gücünde, atmosferik, 7500 devir çeviren ve sadece 1060 kilo olan düz vitesli bir zıpır. <br>

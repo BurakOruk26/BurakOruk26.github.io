@@ -1,1 +1,5 @@
 skin: plum
+navigation_pages:
+  - index.md
+  - intro.md
+  - downsides.md

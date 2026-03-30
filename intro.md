@@ -24,6 +24,7 @@ Sadece arabadan bahsetmek olmaz, çünkü projelere bakış açımı anlamak iç
 Motosiklet sürerek başlayan içten yanmalı sevdam MotoGP izlemem ve Toprak Razgatlıoğlu'nu takip etmemle devam etti. Sonrasında motorsporlarına genel bir ilgi, simülasyon yarışları ve de kapanış olarak spor araç sürme isteği. <br>
 D segment sedan aracımı satıp iki kapılı kibrit kutusunu alınca haliyle herkes tepki gösterdi. Göstersinler, ben de gösterdim zaman zaman. <br>
 Aracıma kötü davranmam ama el bebek gül bebek de değildir. Yağını, filtresini, balatasını değiştiririm. Isınmadan devirlenmem. O da bana hizmet eder. Hem İstanbul Park'ta hem de Körfez Yarış Pisti'nde aracımın ve yeteneklerimin sınırlarını zorladım. Asfalt, lastiklerim ve çimenler şahitlerimdir. <br>
+Sürüş olarak iddialı değilim, ara sıra rekabet sevsem de işin eğlencesindeyim. Keyif aldığım sürece işime devam ederim.
 
 # Girişe bir kapanış
 Burdan sonraki kısımlarda araç hakkında eksik bulduğum noktaları konuşuyor olacağım. Sonrasında çözüm önerileri getireceğim ve plan taslaklarıyla devam edeceğim. Araştırmalarım devam ettikçe, işlemler yapıldıkça sayfalar büyüyecektir.
