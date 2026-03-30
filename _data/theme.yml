@@ -1,6 +1,16 @@
 skin: plum
-navigation_pages:
-  #- index.md
-  - intro.md
-  - general_plans.md
-  - accomplished.md
+# navigation_pages:
+#   #- index.md
+#   - intro.md
+#   - general_plans.md
+#   - accomplished.md
+
+header:
+  - title: "Ruh Kırmızı"
+    url: /
+  - title: "Bilgilendirme"
+    url: /intro/
+  - title: "Planlar"
+    url: /general_plans/
+  - title: "Yapılanlar"
+    url: /accomplished/
