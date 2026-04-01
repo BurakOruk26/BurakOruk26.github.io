@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giriş
+title: Analiz
 permalink: /intro/
 ---
 
