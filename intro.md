@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Bilgilendirme
+title: Giriş
 permalink: /intro/
 ---
 
 [**GİRİŞ**] | [EKSİKLER](/intro/downsides/) | [ANASAYFA](/)
-
-<div id="top"></div>
 
 # Araç Detayları
 Aracımdan kısaca bahsedeceğim çünkü burdaki detaylara ilerleyen sayfalarda çokça değinilecek. Bir yerde toplu durmasında fayda var. 
@@ -32,5 +30,3 @@ Sürüş olarak iddialı değilim, ara sıra rekabet sevsem de işin eğlencesin
 
 # Girişe bir kapanış
 Burdan sonraki kısımlarda araç hakkında eksik bulduğum noktaları konuşuyor olacağım. Sonrasında çözüm önerileri getireceğim ve plan taslaklarıyla devam edeceğim. Araştırmalarım devam ettikçe, işlemler yapıldıkça sayfalar büyüyecektir.
-
-[↑ Başa Dön](#top)
