@@ -21,21 +21,30 @@ Tablodaki değerler, kendilerini kanıtlamış farklı garajların projelerinden
 | Fab9Tuning (HKS)       |       -       |     ~258      |     ~273      | 
 | SPS Motorsport (HKS)   |       -       |      230      |      256      |
 
-## 1.5L ND2 için Tahmini Değerler
+# 1.5L ND2 için Tahmini Değerler
 
 Farklı aşırı besleme yöntemleri ve motor jenerasyonları birbirleriyle oranlanarak tahmini bir güç artış değeri bulunacaktır. <br>
 Artış değerleri yüzdelik olarak değerlendirilecek ve fabrika verileri bu yüzdelik ile oranlanacaktır.
 
-### Güç Artışlarının Oranlanması
+## Güç Artışlarının Oranlanması
 
 Tablonun ilk iki sütununda 2.0L için supercharger ve turbocharger projeleri fabrika gücüyle oranlanmıştır. Bütün oranlar artış şeklinde ve anlaşılır olması adına yüzdelik olarak verilmiştir. Yani %12 olarak verilen değer 1.12 orana tekabül etmektedir.
 
-| Garaj                  | 2.0 SC/ND1 Stok | 2.0 TC/ND1 Stok | 2.0 SC/ND2 Stok | 2.0 TC/ND2 Stok | 1.5 TC/Fabrika | SC ND2/ND1 |
-|:-----------------------|:---------------:|:---------------:|:---------------:|:---------------:|:--------------:|:----------:|
-| BBR GTi - Stage 1      |      %53        |      %54        |      %39        |      %39        |      %62       |            |
-| BBR GTi - Stage 2      |       -         |       -         |      %61        |      %64        |       -        |            |
-| Fab9Tuning (HKS)       |      %61        |       -         |      %52        |       -         |       -        |            |
-| SPS Motorsport (HKS)   |      %44        |       -         |      %42        |       -         |       -        |            |
+| Garaj                  | 2.0 SC/ND1 Stok | 2.0 TC/ND1 Stok | 2.0 SC/ND2 Stok | 2.0 TC/ND2 Stok | 1.5 TC/Fabrika |
+|:-----------------------|:---------------:|:---------------:|:---------------:|:---------------:|:--------------:|
+| BBR GTi - Stage 1      |      %53        |      %54        |      %39        |      %39        |      %62       |
+| BBR GTi - Stage 2      |       -         |       -         |      %61        |      %64        |       -        |
+| Fab9Tuning (HKS)       |      %61        |       -         |      %52        |       -         |       -        |
+| SPS Motorsport (HKS)   |      %44        |       -         |      %42        |       -         |       -        |
+
+## Artış Oranlarının Yorumlanması
+Tablo bir saf veri karmaşası olsa da bu sonuçları dikkatli analizlerle yorumlara bağlayacağız. <br>
+
+## ND1 2.0 1.5 Artışı
+Elimizde 1.5L için referans değerindeki en önemli veri. Ancak elde sadece tek bir veri olduğu için en en şüpheli yaklaşılması gerekendir aynı zamanda. Ancak 1.5L aşırı besleme projesi dünya genelinde markette pek yer edinmiyor. O yüzden kısıtlı veriden en çok bilgiyi çıkarmaya çalışacağız. Yalnız bunu yaparken bilginin önemini çok da abartmayacağız. <br>
+BBR ND1 turboşarj projelerindeki artış çarpanlarını oranladığımızda 1.62/1.54= **1.05** sonucunu elde ediyoruz. Yani 1.5L Skyactive-G'nin 2.0L versiyonuna göre %5 daha çok tepki verdiğini görüyoruz. <br>
+Bu bilgi ne kadar kulağa güzel gelse de unutmamak lazım ki ND1'de 2.0 modelin devir kapasitesi 1.5'tan daha kısıtlıydı. Aynı yüzde beşlik oranın ND2'de görünceğini ummak çok da sağlıklı olmayabilir. Ancak ND2 güncellemesinde [hafifletilmiş krank ve pistonların](https://paultan.org/2018/06/20/mazda-mx-5-update-detailed-2-0l-jumps-from-160-to-184-ps-lower-emissions-improved-active-safety) 1.5L versiyonunun da yararlandığını unutmamak lazım. Sadece bu güncellemeler 2.0 için daha fazla e-devir yani doğrudan daha fazla beygir demekken redline değeri değişmeyen 1.5L için görünür bir fark oluşturmadı. <br>
+Sonuç olarak, %5 olarak belirlenen verim oranı **hesaplamalara dahil edilecektir** ancak ağırlığı diğer faktörlere göre düşük tutulacaktır. 
 
 
 <details>
