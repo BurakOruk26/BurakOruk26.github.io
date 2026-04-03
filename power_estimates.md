@@ -1,3 +1,4 @@
+---
 layout: page
 title: Eksiklerin Saptanması
 permalink: /intro/estimates/
