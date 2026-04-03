@@ -41,13 +41,29 @@ Tablonun ilk iki sütununda 2.0L için supercharger ve turbocharger projeleri fa
 <details>
   <summary>BBR'dan notlar</summary>
     <p>
-        ND1 1.5L için limit 7 psi basınç olarak belirlenmiş. [bilgi için tıklayınız](https://bbrgti.com/blogs/news/bbr-210-bhp-turbocharger-upgrade-now-available-for-1-5-litre-engine-mx-5-nd-variants)
+        ND1 1.5L için limit 7 psi basınç olarak belirlenmiş. 
+        <a href="https://bbrgti.com/blogs/news/bbr-210-bhp-turbocharger-upgrade-now-available-for-1-5-litre-engine-mx-5-nd-variants"
+          target="_blank" rel="noopener noreferrer">
+          bilgi için tıklayınız
+        </a>
         <br>
-        ND2 stage 1 turbo ve stage 1 supercharger uygulamalarında motor güvenliği için devir limitini 7000'e düşürmüşler. Kararın fabrika yakıt sistemi kaynaklı olduğu söyleniyor. [bilgi için tıklayınız](https://bbrgti.com/products/bbr-mx-5-nd2-stage-1-turbo-2-0-2019-2024-184-ps) [bilgi için tıklayınız](https://bbrgti.com/products/bbr-mx-5-nd2-stage-1-turbo-2-0-2019-2024-184-ps)
+        ND2 stage 1 turbo ve stage 1 supercharger uygulamalarında motor güvenliği için devir limitini 7000'e düşürmüşler. Kararın fabrika yakıt sistemi kaynaklı olduğu söyleniyor. 
+        <a href="https://bbrgti.com/products/bbr-mx-5-nd2-stage-1-turbo-2-0-2019-2024-184-ps) [bilgi için tıklayınız](https://bbrgti.com/products/bbr-mx-5-nd2-stage-1-turbo-2-0-2019-2024-184-ps"
+          target="_blank" rel="noopener noreferrer">
+          bilgi için tıklayınız
+        </a>
         <br>
-        ND2 stage 1 254 bg. Stage 2 ise grafikteki gibi 295 bg. Bu farkı ise yakıt sisteminde yapılan değişikliklerle yapıyorlar. İddiaları o ki basit bir yakıt pompası ve enjektör değişiminden fazlasını yapmışlar, adına da BBR yakıt sistemi demişler. Bununla birlikte NGK Iridium bujiler var. [bilgi için tıklayınız](https://bbrgti.com/products/bbr-mx-5-nd2-stage-2-turbo-2-0-2019-2024-184-ps)
+        ND2 stage 1 254 bg. Stage 2 ise grafikteki gibi 295 bg. Bu farkı ise yakıt sisteminde yapılan değişikliklerle yapıyorlar. İddiaları o ki basit bir yakıt pompası ve enjektör değişiminden fazlasını yapmışlar, adına da BBR yakıt sistemi demişler. Bununla birlikte NGK Iridium bujiler var. 
+        <a href="https://bbrgti.com/products/bbr-mx-5-nd2-stage-2-turbo-2-0-2019-2024-184-ps"
+          target="_blank" rel="noopener noreferrer">
+          bilgi için tıklayınız
+        </a>
         <br>
-        ND2 stage 2 supercharger motor iç aksamının sağlığı için 290-300 beygire kısıtlanmış. Eğer döküm parçalara kullanılırsa paketin 360 bg göreceği belirtilmiş. [bilgi için tıklayınız](https://bbrgti.com/products/bbr-stage-two-mazda-mx-5-nd2-2019-2024-184-ps-supercharger-upgrade)
+        ND2 stage 2 supercharger motor iç aksamının sağlığı için 290-300 beygire kısıtlanmış. Eğer döküm parçalara kullanılırsa paketin 360 bg göreceği belirtilmiş. 
+      <a href="https://bbrgti.com/products/bbr-stage-two-mazda-mx-5-nd2-2019-2024-184-ps-supercharger-upgrade"
+          target="_blank" rel="noopener noreferrer">
+          bilgi için tıklayınız
+      </a>
     </p>
 </details>
 
