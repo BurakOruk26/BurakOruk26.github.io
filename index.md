@@ -4,7 +4,7 @@ title: Ruh Kırmızı
 permalink: /
 ---
 
-[ANALİZ](/intro) | [PLANLAR](/general_plans) | [YAPILANLAR](/accomplished)
+[ANALİZ](/analyses/) | [PLANLAR](/general_plans) | [YAPILANLAR](/accomplished)
 
 # Arabam hakkında zırvaladığım bir yazı derlemesi.
 Aracım bir dördüncü nesil MX5, <br>

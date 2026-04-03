@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Eksiklerin Saptanması
-permalink: /intro/downsides/
+permalink: /analyses/downsides/
 ---
 
-[GİRİŞ](/intro/) | [**EKSİKLER**] | [HESAPLAMA](/intro/estimates/)
+[GİRİŞ](/analyses/) | [**EKSİKLER**] | [HESAPLAMA](/analyses/estimates/)
 
 ### Boyut
 Yapacak hiçbir bir şey yok. Araba küçücük, bu kadar. Kafam tavana değmesin diye koltuk alçaltma rayı taktım (182 cm botum var).

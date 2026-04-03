@@ -1,10 +1,10 @@
 ---
 layout: page
 title: HESAPLAMA
-permalink: /intro/estimates/
+permalink: /analyses/estimates/
 ---
 
-[GİRİŞ](/intro/) | [EKSİKLER](/intro/downsides/) | [**HESAPLAMA**]
+[GİRİŞ](/analyses/) | [EKSİKLER](/analyses/downsides/) | [**HESAPLAMA**]
 
 
 # Piyasadaki Aşırı Besleme Değerleri

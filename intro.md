@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Analiz
-permalink: /intro/
+permalink: /analyses/
 ---
 
-[**GİRİŞ**] | [EKSİKLER](/intro/downsides/) | [HESAPLAMA](/intro/estimates/)
+[**GİRİŞ**] | [EKSİKLER](/analyses/downsides/) | [HESAPLAMA](/analyses/estimates/)
 
 # Araç Detayları
 Aracımdan kısaca bahsedeceğim çünkü burdaki detaylara ilerleyen sayfalarda çokça değinilecek. Bir yerde toplu durmasında fayda var. 
