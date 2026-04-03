@@ -40,12 +40,37 @@ Tablonun ilk iki sütununda 2.0L için supercharger ve turbocharger projeleri fa
 ## Artış Oranlarının Yorumlanması
 Tablo bir saf veri karmaşası olsa da bu sonuçları dikkatli analizlerle yorumlara bağlayacağız. <br>
 
-## ND1 2.0 1.5 Artışı
+### ND1 2.0 1.5 Artışı
 Elimizde 1.5L için referans değerindeki en önemli veri. Ancak elde sadece tek bir veri olduğu için en en şüpheli yaklaşılması gerekendir aynı zamanda. Ancak 1.5L aşırı besleme projesi dünya genelinde markette pek yer edinmiyor. O yüzden kısıtlı veriden en çok bilgiyi çıkarmaya çalışacağız. Yalnız bunu yaparken bilginin önemini çok da abartmayacağız. <br>
 BBR ND1 turboşarj projelerindeki artış çarpanlarını oranladığımızda 1.62/1.54= **1.05** sonucunu elde ediyoruz. Yani 1.5L Skyactive-G'nin 2.0L versiyonuna göre %5 daha çok tepki verdiğini görüyoruz. <br>
-Bu bilgi ne kadar kulağa güzel gelse de unutmamak lazım ki ND1'de 2.0 modelin devir kapasitesi 1.5'tan daha kısıtlıydı. Aynı yüzde beşlik oranın ND2'de görünceğini ummak çok da sağlıklı olmayabilir. Ancak ND2 güncellemesinde [hafifletilmiş krank ve pistonların](https://paultan.org/2018/06/20/mazda-mx-5-update-detailed-2-0l-jumps-from-160-to-184-ps-lower-emissions-improved-active-safety) 1.5L versiyonunun da yararlandığını unutmamak lazım. Sadece bu güncellemeler 2.0 için daha fazla e-devir yani doğrudan daha fazla beygir demekken redline değeri değişmeyen 1.5L için görünür bir fark oluşturmadı. <br>
+Bu bilgi ne kadar kulağa güzel gelse de unutmamak lazım ki ND1'de 2.0 modelin devir kapasitesi 1.5'tan daha kısıtlıydı. Aynı yüzde beşlik oranın ND2'de görünceğini ummak çok da sağlıklı olmayabilir. Ancak ND2 güncellemesinde [hafifletilmiş krank ve pistonların](https://paultan.org/2018/06/20/mazda-mx-5-update-detailed-2-0l-jumps-from-160-to-184-ps-lower-emissions-improved-active-safety) 1.5L versiyonunun da yararlandığını unutmamak lazım. Sadece bu güncellemeler 2.0 için daha yüksek devirlenme yani doğrudan daha fazla beygir demekken redline değeri değişmeyen 1.5L için görünür bir fark oluşturmadı. <br>
 Sonuç olarak, %5 olarak belirlenen verim oranı **hesaplamalara dahil edilecektir** ancak ağırlığı diğer faktörlere göre düşük tutulacaktır. 
 
+### ND1 ND2 Artışı
+Oranlar hedef proje ND2 için çizildiğinden ND2/ND1 şeklinde hesaplanacaktır. Bu sayede hesaplamalarda çarpma işleminin anlaşılabilirliğini arttıracaktır. Bu oranlar garajlar özelinde değerlendirilecek ve de ağırlıklı ortalama alınarak nihai bir sonuca ulaşılacaktır. <br>
+Garajlara verilen ağırlıklar iş yapma şekillerine göre karar verilecektir ve sayısal bir tabanı yoktur! Bu ağırlıkların neye göre verildiği ilerde detaylıca açıklanacaktır.
+
+#### BBR GTi
+BBR'ı değerlendirirken stage 1 ve stage 2 uygulamalarını ayrı ele almak gerekmektedir. Bunun sebebi ise ND2 stage 2 uygulamasında yakıt sistemini elden geçirmiş olamaları. <br>
+Yakıttaki sisteminin etkisinin büyük olduğunu görmek oldukça basittir. Stage 1 ve stage 2 arasındaki devasa oran farkından ve diğer garajların oranlarına kıyasından anlaşılabilir. Daha fazla detay için aşağıdan "BBR'dan notlar" kısmına bakabilirsiniz. <br>
+**Stage 1 oranları:** 
+<ul>
+  <li>Supercharger: 1.39/1.53= <b>0.91</b></li>
+  <li>Turbocharger: 1.39/1.54= <b>0.90</b></li>
+</ul>
+**Stage 1 oranları:** 
+<ul>
+  <li>Supercharger: 1.61/1.53= <b>1.05</b></li>
+  <li>Turbocharger: 1.64/1.54= <b>1.06</b></li>
+</ul>
+
+#### Fab9Tuning
+Fab9Tuning özellikle supercharger konusunda en öne çıkan isimlerden birisi. Hem HKS GT2 hem de EdelBrock kitleri için agresif ve güç almaya odaklı yazılımları mevcuttur.
+Artış oranı: 152/161= **0.94**
+
+#### SPS Motorsport
+Diğer iki marka kadar meşhur olmasalar da MX5 ND supercharger kiti temin eden nadir garajlardan biridir. Uygulamalarında TÜV standartlarını gözettikleri için sonuçlar Fab9 kadar göz kamaştırmıyor.
+Artış oranı: 142/144 = **0.99**
 
 <details>
   <summary>BBR'dan notlar</summary>
