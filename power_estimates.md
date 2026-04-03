@@ -58,7 +58,8 @@ Yakıttaki sisteminin etkisinin büyük olduğunu görmek oldukça basittir. Sta
   <li>Supercharger: 1.39/1.53= <b>0.91</b></li>
   <li>Turbocharger: 1.39/1.54= <b>0.90</b></li>
 </ul>
-**Stage 1 oranları:** 
+
+**Stage 2 oranları:** 
 <ul>
   <li>Supercharger: 1.61/1.53= <b>1.05</b></li>
   <li>Turbocharger: 1.64/1.54= <b>1.06</b></li>
@@ -71,6 +72,26 @@ Artış oranı: 152/161= **0.94**
 #### SPS Motorsport
 Diğer iki marka kadar meşhur olmasalar da MX5 ND supercharger kiti temin eden nadir garajlardan biridir. Uygulamalarında TÜV standartlarını gözettikleri için sonuçlar Fab9 kadar göz kamaştırmıyor.
 Artış oranı: 142/144 = **0.99**
+
+#### Oranların Ortalamasının Alınması
+Daha önce bahsettiğim gibi her garajın kendi karakterinde ve yöntemiyle bu işe girmesi oranlarda büyük farklılıklar oluşturuyor. O yüzden ortalama bir değer oluştururken garajların benim amacıma yakınlığı üzerinden ağırlıklandırma yapılacaktır. <br>
+BBR GTi ven genel ortalaması HKS ile aynı olacak. Bunu sebebi iki garajın da araçtan yüksek verim almaya yönelmiş olması. Bu iki garaja kıyasla SPS daha muhafazakar kalmasıyla çok daha az ağırlığa sahip olacak. Garajların ağırlığının yanında BBR'nin kendi içinde stage 1 ve stage 2 uygulamalarının ortalaması alınacak. Bu ortalamada dikkat edilen 2 nokta var: Evet, yakıt sisteminde değişiklik yapmak benim projemin kapsamında, o yüzden stage 2 hesaplamaya dahil edilecektir. Ancak, BBR basit değişikliklerden çok daha fazlasını yaptığını belirtiyor ve sonuçların diğer garajlardan bu denli farklı olması bunu gösteriyor. Bu iki durumun ışığında hesapları gerçekçi tutmak adına stage 1 stage 2'den daha ağırlıklı olacaktır. 
+<br>
+**Ağırlıklar:**
+<ul>
+  <li>HKS: 0.40</li>
+  <li>
+    BBR: 0.40
+    <ul>
+      <li>Stage 1: 0.65</li>
+      <li>Stage 2: 0.35</li>
+    </ul>
+  </li>
+  <li>SPS: 0.20</li>
+</ul>
+
+**Verilen oranlarla ND2/ND1 hesabının ortalamasının alınması:** <br>
+0.40(0.94) + 0.40(0.65(0.90) + 0.35(1.06)) + 0.40(0.99) = **0.96**
 
 <details>
   <summary>BBR'dan notlar</summary>
