@@ -84,6 +84,8 @@ BBR GTi ven genel ortalaması HKS ile aynı olacak. Bunu sebebi iki garajın da 
 
 **Tahmini nihai değer:** 0.36(209 bg) + 0.36( 0.65(191 bg) + 0.35(226 bg)) + 0.28(195 bg) ~ **203 bg**
 
+![Güç Tahminlerinin Grafiği](/assets/images/power_estimates_graph.png)
+
 <details>
   <summary>BBR'dan notlar</summary>
     <p>
