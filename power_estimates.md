@@ -37,61 +37,52 @@ Tablonun ilk iki sütununda 2.0L için supercharger ve turbocharger projeleri fa
 | Fab9Tuning (HKS)       |      %61        |       -         |      %52        |       -         |       -        |
 | SPS Motorsport (HKS)   |      %44        |       -         |      %42        |       -         |       -        |
 
-## Artış Oranlarının Yorumlanması
-Tablo bir saf veri karmaşası olsa da bu sonuçları dikkatli analizlerle yorumlara bağlayacağız. <br>
-
 ### ND1 2.0 1.5 Artışı
 Elimizde 1.5L için referans değerindeki en önemli veri. Ancak elde sadece tek bir veri olduğu için en en şüpheli yaklaşılması gerekendir aynı zamanda. Ancak 1.5L aşırı besleme projesi dünya genelinde markette pek yer edinmiyor. O yüzden kısıtlı veriden en çok bilgiyi çıkarmaya çalışacağız. Yalnız bunu yaparken bilginin önemini çok da abartmayacağız. <br>
 BBR ND1 turboşarj projelerindeki artış çarpanlarını oranladığımızda 1.62/1.54= **1.05** sonucunu elde ediyoruz. Yani 1.5L Skyactive-G'nin 2.0L versiyonuna göre %5 daha çok tepki verdiğini görüyoruz. <br>
 Bu bilgi ne kadar kulağa güzel gelse de unutmamak lazım ki ND1'de 2.0 modelin devir kapasitesi 1.5'tan daha kısıtlıydı. Aynı yüzde beşlik oranın ND2'de görünceğini ummak çok da sağlıklı olmayabilir. Ancak ND2 güncellemesinde [hafifletilmiş krank ve pistonların](https://paultan.org/2018/06/20/mazda-mx-5-update-detailed-2-0l-jumps-from-160-to-184-ps-lower-emissions-improved-active-safety) 1.5L versiyonunun da yararlandığını unutmamak lazım. Sadece bu güncellemeler 2.0 için daha yüksek devirlenme yani doğrudan daha fazla beygir demekken redline değeri değişmeyen 1.5L için görünür bir fark oluşturmadı. <br>
 Sonuç olarak, %5 olarak belirlenen verim oranı **hesaplamalara dahil edilecektir** ancak ağırlığı diğer faktörlere göre düşük tutulacaktır. 
 
-### ND1 ND2 Artışı
-Oranlar hedef proje ND2 için çizildiğinden ND2/ND1 şeklinde hesaplanacaktır. Bu sayede hesaplamalarda çarpma işleminin anlaşılabilirliğini arttıracaktır. Bu oranlar garajlar özelinde değerlendirilecek ve de ağırlıklı ortalama alınarak nihai bir sonuca ulaşılacaktır. <br>
+
+## Tahmini Değerlerin Hesaplanması
+Beygir gücü, hedef proje ND2 için çizildiğinden ND2/Stok oranlarında bakılarak hesaplanacaktır. Dilerseniz aynı aşamaların ND1/Stok oranlarıyla takip edilmesiyle ND1 1.5L için de bir tahmini değer hesabı yapabilirsiniz. <br>
+Yapılacak değer hesabı oldukça basittir. Her garaj için bulunan ND2 supercharger güç artış oranı ile ND2 1.5L modelin gücü çarpılacaktır. Tuzu baharatı olarak da yularıda hesaplanan 1.5L ve 2.0L tepkime çarpanı dahil edilecektir. Sonraki aşama olarak garajlara ağırlıklar verilecek ve de nihai bir ortalama değeri çıkarılacak. Son olaraksa tepe ve dip değerler, bulunan nihai değerler bir beklenti grafiği oluşturucaktır. <br>
 Garajlara verilen ağırlıklar iş yapma şekillerine göre karar verilecektir ve sayısal bir tabanı yoktur! Bu ağırlıkların neye göre verildiği ilerde detaylıca açıklanacaktır.
 
-#### BBR GTi
-BBR'ı değerlendirirken stage 1 ve stage 2 uygulamalarını ayrı ele almak gerekmektedir. Bunun sebebi ise ND2 stage 2 uygulamasında yakıt sistemini elden geçirmiş olamaları. <br>
-Yakıttaki sisteminin etkisinin büyük olduğunu görmek oldukça basittir. Stage 1 ve stage 2 arasındaki devasa oran farkından ve diğer garajların oranlarına kıyasından anlaşılabilir. Daha fazla detay için aşağıdan "BBR'dan notlar" kısmına bakabilirsiniz. <br>
-**Stage 1 oranları:** 
+### BBR GTi
+BBR'ı değerlendirirken stage 1 ve stage 2 uygulamalarını ayrı ele almak gerekmektedir. Bunun sebebi ise ND2 stage 2 uygulamasında yakıt sistemini elden geçirmiş olmaları. <br>
+Yakıttaki sisteminin etkisinin büyük olduğunu görmek oldukça basittir. Stage 1 ve stage 2 arasındaki devasa oran farkından ve diğer garajların oranlarına kıyasından anlaşılabilir. Daha fazla detay için aşağıdan "BBR'dan notlar" kısmına bakabilirsiniz.
 <ul>
-  <li>Supercharger: 1.39/1.53= <b>0.91</b></li>
-  <li>Turbocharger: 1.39/1.54= <b>0.90</b></li>
+  <li><b>Stage 1</b>: 131 bg &times 1.39 &times 1.05 = <b>191 bg</b></li>
+  <li><b>Stage 2</b>: 131 bg &times 1.64 &times 1.05 = <b>226 bg</b></li>
 </ul>
 
-**Stage 2 oranları:** 
-<ul>
-  <li>Supercharger: 1.61/1.53= <b>1.05</b></li>
-  <li>Turbocharger: 1.64/1.54= <b>1.06</b></li>
-</ul>
+### Fab9Tuning
+Fab9Tuning özellikle supercharger konusunda en öne çıkan isimlerden birisi. Hem HKS GT2 hem de EdelBrock kitleri için agresif ve güç almaya odaklı yazılımları mevcuttur. <br>
+**Tahmini değer:** 131 bg &times 1.52 &times 1.05 = **209 bg**
 
-#### Fab9Tuning
-Fab9Tuning özellikle supercharger konusunda en öne çıkan isimlerden birisi. Hem HKS GT2 hem de EdelBrock kitleri için agresif ve güç almaya odaklı yazılımları mevcuttur.
-Artış oranı: 152/161= **0.94**
-
-#### SPS Motorsport
+### SPS Motorsport
 Diğer iki marka kadar meşhur olmasalar da MX5 ND supercharger kiti temin eden nadir garajlardan biridir. Uygulamalarında TÜV standartlarını gözettikleri için sonuçlar Fab9 kadar göz kamaştırmıyor.
-Artış oranı: 142/144 = **0.99**
+**Tahmini değer:** 131 bg &times 1.42 &times 1.05 = **195 bg**
 
-#### Oranların Ortalamasının Alınması
+### Değerlerin Ortalamasının Alınması
 Daha önce bahsettiğim gibi her garajın kendi karakterinde ve yöntemiyle bu işe girmesi oranlarda büyük farklılıklar oluşturuyor. O yüzden ortalama bir değer oluştururken garajların benim amacıma yakınlığı üzerinden ağırlıklandırma yapılacaktır. <br>
 BBR GTi ven genel ortalaması HKS ile aynı olacak. Bunu sebebi iki garajın da araçtan yüksek verim almaya yönelmiş olması. Bu iki garaja kıyasla SPS daha muhafazakar kalmasıyla çok daha az ağırlığa sahip olacak. Garajların ağırlığının yanında BBR'nin kendi içinde stage 1 ve stage 2 uygulamalarının ortalaması alınacak. Bu ortalamada dikkat edilen 2 nokta var: Evet, yakıt sisteminde değişiklik yapmak benim projemin kapsamında, o yüzden stage 2 hesaplamaya dahil edilecektir. Ancak, BBR basit değişikliklerden çok daha fazlasını yaptığını belirtiyor ve sonuçların diğer garajlardan bu denli farklı olması bunu gösteriyor. Bu iki durumun ışığında hesapları gerçekçi tutmak adına stage 1 stage 2'den daha ağırlıklı olacaktır. 
 <br>
 **Ağırlıklar:**
 <ul>
-  <li>HKS: 0.40</li>
+  <li>HKS: 0.36</li>
   <li>
-    BBR: 0.40
+    BBR: 0.36
     <ul>
       <li>Stage 1: 0.65</li>
       <li>Stage 2: 0.35</li>
     </ul>
   </li>
-  <li>SPS: 0.20</li>
+  <li>SPS: 0.28</li>
 </ul>
 
-**Verilen oranlarla ND2/ND1 hesabının ortalamasının alınması:** <br>
-0.40(0.94) + 0.40(0.65(0.90) + 0.35(1.06)) + 0.40(0.99) = **0.96**
+**Tahmini nihai değer:** 0.36(209 bg) + 0.36( 0.65(191 bg) + 0.35(226 bg)) + 0.28(195 bg) ~ **203 bg**
 
 <details>
   <summary>BBR'dan notlar</summary>
