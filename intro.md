@@ -4,7 +4,7 @@ title: Analiz
 permalink: /intro/
 ---
 
-[**ANALİZ**] | [EKSİKLER](/intro/downsides/) | [HESAPLAMA](/intro/estimates/)
+[**GİRİŞ**] | [EKSİKLER](/intro/downsides/) | [HESAPLAMA](/intro/estimates/)
 
 # Araç Detayları
 Aracımdan kısaca bahsedeceğim çünkü burdaki detaylara ilerleyen sayfalarda çokça değinilecek. Bir yerde toplu durmasında fayda var. 
