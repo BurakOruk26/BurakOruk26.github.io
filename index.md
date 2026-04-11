@@ -1,17 +1,23 @@
 ---
 layout: home
-title: Ruh Kırmızı
+title: Anasayfa
 permalink: /
 ---
 
-[ANALİZ](/analyses/) | [PLANLAR](/general_plans) | [YAPILANLAR](/accomplished)
+[Afaki Planlar](/general_plans)
 
-# Arabam hakkında zırvaladığım bir yazı derlemesi.
-Aracım bir dördüncü nesil MX5, <br>
-130 bg gücünde, atmosferik, 7500 devir çeviren ve sadece 1060 kilo olan düz vitesli bir zıpır. <br>
-Burda Miata övüyor ya da yeriyor olmayacağım, ikisi de tonlarca kez yapıldı :\)
+# Arabalar Hakkında Zırvaladığım Bir Sayfa
+Burda mecvut, geçmiş ve gelecek arabalarım hakkında notlar tutuyor olacağım. Esas amacım burayı her yerden erişebildiğim bir deftere çevirmek. Ancak merak eden varsa buyursun.
 
-## Sitenin amacı
-Arabamı sevsem de hiçbir zaman "orijinalci" olmadım ve evet, araçta eksik bulduğum noktalar var. Bana kalsa motor bile takarım ama bir yerde de aklın kalbe dur demesi lazım. <br>
-Bu sitede kırmızı tavşana uygun gördüğüm modifiyeleri planlıyor olacağım. Çoğunlukla kendim için bir not defteri ama isteyen herkes yolculuğuma eşlik edebilir.
-Tam düzenli bir plan şeması olmaktan ziyade fikir haritası görevi görecek. Arada bir karmaşıklaşabilir, şimdiden uyarayım.
+# Ben Kimim
+Kıl tüy zevkleri olan, mantıklı seçenekleri sevmeyen bir sürüş sevdalısıyım. 
+Bisikletle başlayıp motorsikletle zirveye ulaşan sürüş ve kontrol hissimin peşinden gidiyorum. <br>
+Motosikleti bırakmamla birlikte bu heyecanı motorsporlarında buldum. Piste çıkmayı severim, her fırsatta giderim. 
+Bu heyecanın getirisi olarak da 2024 Kasım'da ND kasa bir MX5 sahibi oldum. Bu yazıyı yazdığım Nisan 2026 tarihinde araç hala bende.
+
+## Zevklerim
+Sürdüğüm araçla bir bütün olma hissini severim. Motosiklet gibi vücudumun ağırlığını kullanarak dengelediğim bir platformdan sonra uzun süre bu hissi aradım.
+MX5 ile bu hissi yeniden yakaladım ve de kolay kolay bırakasım yok. <br>
+Çok ağır Porsche hayranıyım, fanatik bile denebilir hatta. Bu markanın motorsporlarındaki yeri, araçlarına bu DNA'yı yansıtma şekilleri beni benden alıyor.
+Ayrıca 911'in tasarımını yıllar içinde bu kadar güzelce korumuş ve arkadan motorun dinamisini mükemmelleştirmiş olmalarına hastayım. 
+Kısaca benim için *Araba Porsche'dir*.

@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Planlar
-permalink: /general_plans/
+title: Geveze Planlar
+permalink: /general_plans
 ---
 
-Lorem Ipsum
+Nisan 2026 itibariyle beğendiğim bir işteyim. Bekarım ve birikim yapmam kolay. Bu fırsatı aracımı yükseltmekte kullanmak istiyorum.
+
+# Kalp ve Beyin Çatışması
+Pekala, önce bebyinle başlayalım.
+
+## Beyin: Bavaryalı Sokak Canavar
+
+
+## Kalp: Stuttgart Klasiği

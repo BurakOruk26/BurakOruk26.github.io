@@ -1,6 +1,4 @@
-skin: plum
+skin: steel
 navigation_pages:
    #- index
-   - intro.md
-   - general_plans.md
-   - accomplished.md
+   - general_plans
