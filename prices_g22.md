@@ -1,8 +1,14 @@
 ---
 layout: page
 title: G22 Modifiye Maaliyetleri
-permalink: /prices_g22
+permalink: /mod_prices/g22
 ---
+
+BMW G22 420i (B48B16), Türkiye'deki vergi sisteminde sunduğundan bile daha fazlasını verebilen bir araç haline gelmiştir. <br>
+Bu modifiye planı, yazılım egzoz ikilisini basmakalıp yapıştırmaktan öteye gitmeyi hedeflemektedir. 
+Güç kazanmanın yanısıra aracın direksiyon tepkileri, viraj kabiliyeti ve kayma anındaki stabilitesi arttırılması amaçlanan hususlardandır. <br>
+Bu planı kısaca özetlemek gerekirse, bu 1600 kg grand tourer aracı 1000 kg bir MX5'e sürüş olarak olabildiğince yakınlaştırmaktır. 
+Benzer bir hale geleceği iddia edilmemekte ve böyle bir projenin gerekliliği hem günlük hem spor kullanılabilecek bir araç ihtiyacından doğmuştur.
 
 # 1. Aşama
 Bu aşama arabayı lüks ve komfor odaklı sürüşünden daha sportif ve tepkisel bir araca dönüştürmeyi heedefliyor. <br>
@@ -14,7 +20,7 @@ Bununla birlikte virajlardaki yol tutuşu ve sürüş dinamiği değişecek olsa
 | Millway Monoballs       |   2,824 SEK (~14k TL)      |
 | Wavetrac LSD       |   1695 USD (~77k TL)      |
 
-NOT 1: Bu parçalar yurt dışından geleceği için ek getirtme ücreti çıkacaktır.
+NOT 1: Bu parçalar yurt dışından geleceği için ek getirtme ücreti çıkacaktır. <br>
 NOT 2: 3. aşamadaki başka bir parça daha Millway marka olduğu için getirtme parasını teklemek adına bu aşamada sipariş edilebilir.
 
 # 2. Aşama
@@ -47,7 +53,7 @@ Bu şekilde ağırlık transferi sırasında yapay bir dengesizlik oluşturulara
 | H&R Sway Bar Set      |   48k TL      |
 | Eibach Pro-Kit      |   21k TL      |
 
-### Dolar kurunun baz alındığı tarih: 
+#### Dolar kurunun baz alındığı tarih: 
 06.05.2026
 #### Anlık USD TL oranı:
 1 USD = 45.21 TL
