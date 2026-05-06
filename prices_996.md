@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 996 Maaliyetleri
-permalink: /prices_996
+permalink: /mod_prices/996
 ---
 
 Bu sayfada 996 kasa bir Porsche 911 için yürütme ve bakım maaliyetlerini araştırıp not alacağım. 
